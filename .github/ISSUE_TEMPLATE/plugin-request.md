@@ -1,16 +1,16 @@
 ---
-name: Feature request
+name: Plugin Request
 about: Make a suggestion for Birdy and its core system.
-title: "[FEATURE] Short title for feature request"
+title: "[REQUEST] Short title for plugin request"
 labels: enhancement
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
+**Is your plugin request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
-**Describe the solution you'd like**
+**Describe the desired plugin functionality**
 A clear and concise description of what you want to happen.
 
 **Describe alternatives you've considered**
